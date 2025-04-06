@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etName" type="id">etName</item>
+    <item name="btnRegister" type="id">btnRegister</item>
+    <item name="tvBackToLogin" type="id">tvBackToLogin</item>
+    <item name="registerTitle" type="id">registerTitle</item>
+    <item name="registerLayout" type="id">registerLayout</item>
+</resources>
